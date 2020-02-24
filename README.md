@@ -2,4 +2,4 @@
 
 * `Links`
   * [Youtube](https://www.youtube.com/watch?v=H4CCPaYLTWg)
-  * [GitHub](ttps://github.com/florinpop17/app-ideas)
+  * [GitHub](https://github.com/florinpop17/app-ideas)
