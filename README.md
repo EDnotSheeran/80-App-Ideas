@@ -1,4 +1,4 @@
-# Felipe-Deschamps---80-App-Ideas
+# Felipe Dechampz 80 App Ideas
 
 * `Links`
   * [Youtube](https://www.youtube.com/watch?v=H4CCPaYLTWg)
