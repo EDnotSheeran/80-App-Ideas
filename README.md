@@ -7,5 +7,5 @@
 ### Dificuldade-1: Projetos para Iniciantes
 | Iniciante                                                        |
 | ---------------------------------------------------------------- |
-| [Bin2Dec](./Beginner/Bin2Dec-App.md)                             |
-| [Border Radius Previewer](./Beginner/Border-Radius-Previewer.md) |
+| [Bin2Dec](./MD/Bin2Dec-App.md)                             |
+| [Border Radius Previewer](./MD/Border-Radius-Previewer.md) |
