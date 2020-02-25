@@ -7,7 +7,7 @@
   * Repositorio de ideias do [`GitHub`](https://github.com/florinpop17/app-ideas)
 
 ### Dificuldade-1: Projetos para Iniciantes
-| Iniciante                                                        | Autor da Resposta |
-| ---------------------------------------------------------------- | ----------------- |
-| [Bin2Dec](./MD/Bin2Dec-App.md)                                   | EDnotSheeran      |
-| [Border Radius Previewer](./MD/Border-Radius-Previewer.md)       | EDnotSheeran      |
+| Iniciante                                                        | 
+| ---------------------------------------------------------------- | 
+| [Bin2Dec](./MD/Bin2Dec-App.md)                                   | 
+| [Border Radius Previewer](./MD/Border-Radius-Previewer.md)       | 
