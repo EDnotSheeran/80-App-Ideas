@@ -1,5 +1,5 @@
-# Felipe Dechampz 80 App Ideas
+# Filipe Deschamps 80 App Ideas
 
-* `Links`
-  * [Youtube](https://www.youtube.com/watch?v=H4CCPaYLTWg)
-  * [GitHub](https://github.com/florinpop17/app-ideas)
+* # Links
+  * `[Youtube](https://www.youtube.com/watch?v=H4CCPaYLTWg)`
+  * `[GitHub](https://github.com/florinpop17/app-ideas)`
