@@ -1,5 +1,11 @@
 # Filipe Deschamps 80 App Ideas
 
-* # Links
-  * [`Youtube`](https://www.youtube.com/watch?v=H4CCPaYLTWg)
-  * [`GitHub`](https://github.com/florinpop17/app-ideas)
+* # Links das ideias
+  * Video de inspiracao no [`Youtube`](https://www.youtube.com/watch?v=H4CCPaYLTWg)
+  * Repositorio de ideias do [`GitHub`](https://github.com/florinpop17/app-ideas)
+
+### Dificuldade-1: Projetos para Iniciantes
+| Iniciante                                                        |
+| ---------------------------------------------------------------- |
+| [Bin2Dec](./Beginner/Bin2Dec-App.md)                             |
+| [Border Radius Previewer](./Beginner/Border-Radius-Previewer.md) |
