@@ -27,4 +27,4 @@ restrições:
 
 ## Recursos bônus
 
-- [] O usuário pode inserir um número variável de dígitos binários
+- [ ] O usuário pode inserir um número variável de dígitos binários
